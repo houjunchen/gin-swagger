@@ -1,5 +1,7 @@
 {
   "swagger": "2.0",
+  "host": "localhost:8002",
+  "basePath": "/v1",
   "paths": {
     "/": {
       "post": {
